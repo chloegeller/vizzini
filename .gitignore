@@ -1,3 +1,13 @@
+.idea/
+
+jspsych/.jspsych-builder/
+jspsych/node_modules/
+jspsych/packaged/
+
+.DS_STORE
+_arxiv
+.envrc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +137,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode
